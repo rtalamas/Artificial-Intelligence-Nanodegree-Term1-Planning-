@@ -1,3 +1,4 @@
+# Udacity Project Description:
 
 # Implement a Planning Search
 
